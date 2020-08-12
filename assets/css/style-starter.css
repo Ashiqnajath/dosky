@@ -5072,11 +5072,11 @@ input#amount1 {
   opacity: 0;
   transform: rotate3d(-1, 1, 0, 100deg);
   transition: all .4s ease-in-out 0s;
-  border-radius: 50%;
-  -webkit-border-radius: 50%;
-  -o-border-radius: 50%;
-  -ms-border-radius: 50%;
-  -moz-border-radius: 50%;
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -o-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -moz-border-radius: 10%;
 }
 
 .w3l-grids-hny-2 .boxhny13:hover:after {
@@ -5087,11 +5087,11 @@ input#amount1 {
 .w3l-grids-hny-2 .boxhny13 img {
   width: 100%;
   height: auto;
-  border-radius: 50%;
-  -webkit-border-radius: 50%;
-  -o-border-radius: 50%;
-  -ms-border-radius: 50%;
-  -moz-border-radius: 50%;
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -o-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -moz-border-radius: 10%;
 }
 
 .w3l-grids-hny-2 .boxhny13 .boxhny-content {
