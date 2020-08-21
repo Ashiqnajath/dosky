@@ -82,6 +82,11 @@ h3.hny-title.two {
 .mobonly{
   display: none;
 }
+@media only screen and (max-width: 768px){
+  .rfont{
+    font-size: 15px;
+  }
+}
 @media only screen and (max-width: 768px) {
   .mobonly {
     display: block;
