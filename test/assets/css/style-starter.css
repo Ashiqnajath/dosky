@@ -6,7 +6,7 @@ Author URL: http://w3layouts.com
  @charset "UTF-8";
 
  html {
-   scroll-behavior: smooth;
+   scroll-behavior: smooth;    
  }
  h1,
  h2,
@@ -17,7 +17,6 @@ Author URL: http://w3layouts.com
    font-family: 'Oswald', sans-serif;
    font-weight: 600;
  }
- 
  body,
  body a,
  body li,
@@ -47,7 +46,7 @@ Author URL: http://w3layouts.com
  }
  
  body a:hover {
-   color: #ff7315;
+   color: #e0b006;
    transition: 0.3s ease;
  }
  
@@ -80,12 +79,12 @@ Author URL: http://w3layouts.com
    background-color: rgba(0, 0, 0, 0.459);
  }
  .mcl-yl{
-   color: #ff7315;
+   color: #e0b006;
  }
  
  h3.hny-title span,
  h3.hny-title span {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  a.read-more.btn {
@@ -107,7 +106,7 @@ Author URL: http://w3layouts.com
  
  #drophv1, #drophv2:hover,
  a.read-more.btn:hover {
-   background-color: #ff7315;
+   background-color: #e0b006;
  }
  
  a.read-more-btn2.btn {
@@ -129,7 +128,7 @@ Author URL: http://w3layouts.com
  
  a.read-more-btn2.btn:hover {
    color: #fff;
-   background-color: #ff7315;
+   background-color: #e0b006;
  }
  
  @media (max-width: 1366px) {
@@ -260,7 +259,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-banner-slider-main span.hignlaite {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-banner-slider-main span.hignlaite:hover {
@@ -294,7 +293,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-banner-slider-main ul.top-hnt-right-content li.usernhy a:hover {
-   background: #ff7315;
+   background: #e0b006;
  }
  
  .w3l-banner-slider-main a.btn-open span.fa {
@@ -339,7 +338,7 @@ Author URL: http://w3layouts.com
  
  .w3l-banner-slider-main button.submit-login.btn {
    box-shadow: none;
-   background: #ff7315;
+   background: #e0b006;
    padding: 12px 20px;
    border-radius: 25px;
    border: none;
@@ -474,7 +473,7 @@ Author URL: http://w3layouts.com
  
  .w3l-banner-slider-main .dropdown-item:hover,
  .w3l-banner-slider-main .dropdown-item:focus {
-   color: #ff7315;
+   color: #e0b006;
    text-decoration: none;
    background-color: transparent;
  }
@@ -498,7 +497,7 @@ Author URL: http://w3layouts.com
  
  .w3l-banner-slider-main span.lohny {
    margin-bottom: 0;
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-banner-slider-main .navbar-light .navbar-brand:hover,
@@ -510,12 +509,12 @@ Author URL: http://w3layouts.com
  .w3l-banner-slider-main .navbar-light .navbar-nav .active>.nav-link,
  .w3l-banner-slider-main .navbar-light .navbar-nav .nav-link.show,
  .w3l-banner-slider-main .navbar-light .navbar-nav .nav-link.active {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-banner-slider-main .navbar-light .navbar-nav .nav-link:hover,
  .w3l-banner-slider-main .navbar-light .navbar-nav .nav-link:focus {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-banner-slider-main .navbar-light .navbar-nav .nav-link {
@@ -616,7 +615,7 @@ Author URL: http://w3layouts.com
    }
  
    .w3l-banner-slider-main .navbar-light .navbar-toggler {
-     color: #ff7315;
+     color: #e0b006;
      border-color: #fff;
      background: #fff;
      cursor: pointer;
@@ -765,7 +764,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-banner-slider-main a.shop-button.btn:hover {
-   background: #ff7315;
+   background: #e0b006;
    color: #fff;
  }
  
@@ -1272,11 +1271,11 @@ Author URL: http://w3layouts.com
  }
  
  .search-trans-form button.btn.read-2:hover {
-   background-color: #ff7315;
+   background-color: #e0b006;
  }
  
  .search-trans-form input[type="search"]:focus {
-   border: 2px solid #ff7315;
+   border: 2px solid #e0b006;
    background: none;
    outline: none;
  }
@@ -1569,9 +1568,9 @@ Author URL: http://w3layouts.com
  .ui-state-default,
  .ui-widget-content .ui-state-default,
  .ui-widget-header .ui-state-default {
-   border: 0px solid #ff7315;
+   border: 0px solid #e0b006;
    /*{borderColorDefault}*/
-   background: #ff7315;
+   background: #e0b006;
    font-weight: normal;
    color: #444;
    outline: none;
@@ -2028,7 +2027,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-grids-hny-2 .welcome-image h4 a:hover {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-grids-hny-2 h6 {
@@ -2117,7 +2116,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-grids-hny-2 .boxhny13 .title:hover {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  @media (max-width: 768px) {
@@ -2503,7 +2502,7 @@ Author URL: http://w3layouts.com
  }
  
  .video-inner a.play-button:hover {
-   background: #ff7315;
+   background: #e0b006;
  }
  
  .video-inner a.play-button span {
@@ -2824,7 +2823,7 @@ Author URL: http://w3layouts.com
  
  .w3l-ecommerce-main .product-grid2 .social li a:hover {
    color: #fff;
-   background-color: #ff7315;
+   background-color: #e0b006;
    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
  }
  
@@ -2857,7 +2856,7 @@ Author URL: http://w3layouts.com
  
  .w3l-ecommerce-main .product-grid2 .social li a:hover:after,
  .w3l-ecommerce-main .product-grid2 .social li a:hover:before {
-   background-color: #ff7315;
+   background-color: #e0b006;
  }
  
  .w3l-ecommerce-main .product-grid2 .add-to-cart {
@@ -2876,7 +2875,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-ecommerce-main .product-grid2 .add-to-cart:hover {
-   background-color: #ff7315;
+   background-color: #e0b006;
    text-decoration: none;
  }
  
@@ -2907,7 +2906,7 @@ Author URL: http://w3layouts.com
  .w3l-ecommerce-main .product-grid2 .title {
    font-size: 18px;
    margin: 0 0 6px 0;
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-ecommerce-main .product-grid2 .title a {
@@ -2916,7 +2915,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-ecommerce-main .product-grid2 .title a:hover {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-ecommerce-main .product-grid2 .price {
@@ -3045,7 +3044,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-post-grids-6 .grids5-info a:hover {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  @media all and (max-width: 1280px) {
@@ -3103,7 +3102,7 @@ Author URL: http://w3layouts.com
  
  .w3l-customers-sec-6 .feedback-hny span.fa {
    display: block;
-   color: #ff7315;
+   color: #e0b006;
    font-size: 24px;
  }
  
@@ -3230,7 +3229,7 @@ Author URL: http://w3layouts.com
    font-size: 16px;
    text-align: center;
    color: #fff;
-   background: #ff7315;
+   background: #e0b006;
    height: 53px;
    transition: 0.3s ease;
    border: none;
@@ -3291,7 +3290,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-footer-22 span.lohny {
-   color: #ff7315;
+   color: #e0b006;
    margin-bottom: 0;
  }
  
@@ -3336,7 +3335,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-footer-22 ul.social-footerhny li a:hover {
-   background: #ff7315;
+   background: #e0b006;
    transition: 0.3s ease;
  }
  
@@ -3419,7 +3418,7 @@ Author URL: http://w3layouts.com
  .w3l-footer-22 .footer-hny-ul li a:hover,
  .w3l-footer-22 .columns p a:hover,
  .w3l-footer-22 .columns ul li a:hover {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-footer-22 .right-side h4 {
@@ -3455,7 +3454,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-footer-22 #movetop:hover {
-   background: #ff7315;
+   background: #e0b006;
  }
  
  @media (max-width: 992px) {
@@ -3640,7 +3639,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-team-main .team_name:hover {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-team-main span.team_role {
@@ -3666,7 +3665,7 @@ Author URL: http://w3layouts.com
  .w3l-team-main .team span.info {
    text-transform: uppercase;
    font-weight: 600;
-   color: #ff7315;
+   color: #e0b006;
    font-size: 16px;
  }
  
@@ -3690,7 +3689,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-team-main ul.team-social li a:hover {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-team-main ul.team-social li a span.fa {
@@ -3741,7 +3740,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-specification-6 .story-info h5 a:hover {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  @media (max-width: 992px) {
@@ -3791,7 +3790,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-services-6 .w3-icon-grid1 a:hover h3 {
-   color: #ff7315;
+   color: #e0b006;
    transition: .3s;
    -webkit-transition: .3s;
    -moz-transition: .3s;
@@ -3803,7 +3802,7 @@ Author URL: http://w3layouts.com
    font-size: 26px;
    float: left;
    width: 40px;
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-services-6 .w3-icon-grid1 p {
@@ -3865,7 +3864,7 @@ Author URL: http://w3layouts.com
    text-align: center;
    font-weight: 300;
    text-transform: uppercase;
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .features-4 p.what-para {
@@ -3896,7 +3895,7 @@ Author URL: http://w3layouts.com
  .features-4 span.fa.icon-fea4 {
    font-size: 50px;
    margin-bottom: 16px;
-   color: #ff7315;
+   color: #e0b006;
  }
  
  @media all and (max-width: 1080px) {
@@ -3936,7 +3935,7 @@ Author URL: http://w3layouts.com
  
  .w3l-contacts-8 .cont-details span.fa {
    margin-right: 10px;
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-contacts-8 .partners p {
@@ -3945,7 +3944,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-contacts-8 span.texthny {
-   color: #ff7315;
+   color: #e0b006;
    font-family: 'Oswald', sans-serif;
  }
  
@@ -3955,7 +3954,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-contacts-8 .partners p a:hover {
-   color: #ff7315;
+   color: #e0b006;
  }
  
  .w3l-contacts-8 .cont-details h5 {
@@ -3979,7 +3978,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-contacts-8 .cont-details p a:hover {
-   color: #ff7315;
+   color: #e0b006;
    text-decoration: underline;
  }
  
@@ -4085,7 +4084,7 @@ Author URL: http://w3layouts.com
    padding: 14px 60px;
    font-size: 18px;
    line-height: 25px;
-   background: #ff7315;
+   background: #e0b006;
    border: none;
    color: #fff;
    font-weight: bold;
