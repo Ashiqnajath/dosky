@@ -79,20 +79,11 @@ h3.hny-title.two {
 #navbar, #dropdwn{
   background-color: rgba(0, 0, 0, 0.459);
 }
-.mobonly{
-  display: none;
-}
 @media only screen and (max-width: 768px){
   .rfont{
     font-size: 15px;
   }
 }
-@media only screen and (max-width: 768px) {
-  .mobonly {
-    display: block;
-  }
-}
-
 .mcl-yl{
   color: #ff7315;
 }
