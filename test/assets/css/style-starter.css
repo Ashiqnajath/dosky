@@ -81,7 +81,12 @@ Author URL: http://w3layouts.com
  .mcl-yl{
    color: #fbc831;
  }
- 
+ .red{
+   color: rgb(255, 0, 0);
+ }
+ .yell{
+   background-color: rgb(39, 41, 0);
+ }
  h3.hny-title span,
  h3.hny-title span {
    color: #fbc831;
