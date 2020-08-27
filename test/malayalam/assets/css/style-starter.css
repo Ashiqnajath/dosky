@@ -1987,21 +1987,21 @@ input#amount1 {
 }
 
 /*-- //Responsive --*/
-.w3l-grids-hny-2 {
+ {
   /*--/hover--*/
   /*********************** Demo - 13 *******************/
   /*--//hover--*/
 }
 
-.w3l-grids-hny-2 .welcome-image {
+ .welcome-image {
   text-align: center;
 }
 
-.w3l-grids-hny-2 .welcome-image h4 {
+ .welcome-image h4 {
   margin-top: 20px;
 }
 
-.w3l-grids-hny-2 .welcome-image h4 a {
+ .welcome-image h4 a {
   font-size: 18px;
   line-height: 30px;
   color: #232020;
@@ -2010,30 +2010,30 @@ input#amount1 {
   text-transform: capitalize;
 }
 
-.w3l-grids-hny-2 .welcome-image h4 a:hover {
+ .welcome-image h4 a:hover {
   color: #ff7315;
 }
 
-.w3l-grids-hny-2 h6 {
+ h6 {
   text-align: center;
   font-weight: 300;
   text-transform: uppercase;
   color: #ff6768;
 }
 
-.w3l-grids-hny-2 .boxhny13 {
+ .boxhny13 {
   position: relative;
   transition: all .2s ease-out 0s;
 }
 
-.w3l-grids-hny-2 .boxhny13 .boxhny-content,
-.w3l-grids-hny-2 .boxhny13:after {
+ .boxhny13 .boxhny-content,
+ .boxhny13:after {
   position: absolute;
   left: 20px;
   right: 20px;
 }
 
-.w3l-grids-hny-2 .boxhny13:after {
+ .boxhny13:after {
   content: "";
   display: block;
   background: rgba(31, 28, 28, 0.74902);
@@ -2049,7 +2049,7 @@ input#amount1 {
   -moz-border-radius: 10%;
 }
 
-.w3l-grids-hny-2 .boxhny13:hover:after {
+ .boxhny13:hover:after {
   opacity: .9;
   transform: rotate3d(0, 0, 0, 0deg);
 }
@@ -2065,7 +2065,7 @@ div .boxhny12 img {
 }
 
 
-.w3l-grids-hny-2 .boxhny13 img {
+ .boxhny13 img {
   width: 100%;
   height: auto;
   border-radius: 10%;
@@ -2075,7 +2075,7 @@ div .boxhny12 img {
   -moz-border-radius: 10%;
 }
 
-.w3l-grids-hny-2 .boxhny13 .boxhny-content {
+ .boxhny13 .boxhny-content {
   top: 45%;
   opacity: 0;
   z-index: 1;
@@ -2084,13 +2084,13 @@ div .boxhny12 img {
   text-align: center;
 }
 
-.w3l-grids-hny-2 .boxhny13:hover .boxhny-content {
+ .boxhny13:hover .boxhny-content {
   opacity: 1;
   transform: translate(0, -50%);
   transition-delay: .2s;
 }
 
-.w3l-grids-hny-2 .boxhny13 .title {
+ .boxhny13 .title {
   display: block;
   font-size: 20px;
   font-weight: 600;
@@ -2099,18 +2099,18 @@ div .boxhny12 img {
   padding-top: 14px;
 }
 
-.w3l-grids-hny-2 .boxhny13 .title:hover {
+ .boxhny13 .title:hover {
   color: #ff7315;
 }
 
 @media (max-width: 768px) {
-  .w3l-grids-hny-2 .welcome-image {
+   .welcome-image {
     margin-bottom: 1em;
   }
 }
 
 @media (max-width: 736px) {
-  .w3l-grids-hny-2 .welcome-image {
+   .welcome-image {
     margin-bottom: 1em;
   }
 }
