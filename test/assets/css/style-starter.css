@@ -91,12 +91,41 @@ Author URL: http://w3layouts.com
    border-radius: 30%;
  }
 
- @media (min-width: 560px){
-    .mycenter{
-  display: block;
+  .fish-banner {
+    background: url(../images/freshfish.jpg) no-repeat center;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    width: 50%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+  }
+ @media (max-width: 560px){
+    .fish-banner{
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 90%;
+  height: 200px;
+ }
+ }
+  .del-banner {
+    background: url(../images/paydelivery.jpg) no-repeat center;
+    background-size: contain;
+    display: grid;
+    align-items: center;
+    width: 50%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+ @media (max-width: 560px){
+    .del-banner{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 200px;
  }
  }
 
@@ -3979,7 +4008,7 @@ Author URL: http://w3layouts.com
  }
  
  .w3l-contacts-8 .form-bg-img {
-   background: url(../images/banner4.jpg) no-repeat 0px 0px;
+   background: url(../images/bg1.jpg) no-repeat 0px 0px;
    background-attachment: fixed;
    background-size: cover;
  }
