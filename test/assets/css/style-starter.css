@@ -129,6 +129,24 @@ Author URL: http://w3layouts.com
  }
  }
 
+ .social-icon{
+  width: 50px;
+  position: fixed;
+  top: 90%;
+  left: 10px;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+.social-icon img{
+  display: block;
+  width: 20px;
+  margin: 0 auto 20px;
+  cursor: pointer;
+}
+.social-icon img{
+  width: 14px;
+  margin: 15 auto ;
+}
 
  h3.hny-title span,
  h3.hny-title span {
