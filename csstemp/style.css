@@ -395,6 +395,7 @@ ul.social_list {
 .social_list li {
     display: inline-block;
     margin-left: 1em;
+    
 }
 
 .social_list li a {
@@ -420,8 +421,8 @@ a.social_facebook {
 }
 
 a.social_facebook:hover {
-    border: 1px solid #3b5998;
-    color: #3b5998;
+    border: 1px solid #037708;
+    color: hsl(110, 93%, 59%);
 }
 
 a.social_twitter {
